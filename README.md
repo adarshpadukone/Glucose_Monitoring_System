@@ -7,6 +7,9 @@ In this Repository It includes all the files required for the Project Non Invasi
 ##Website for this project :heart:
 - [Glucometer](http://gluco.dx.am)
 
+![Screenshot](https://github.com/adarshpadukone/Glucose_Monitoring_System/blob/master/imges/homepage.JPG
+)
+
 ## Social Media Links
 * Connect on [Facebook](http://www.facebook.com/aadarshpadukone).
 * Connect on [Instagram](http://www.instagram.com/adarshpadukone).
