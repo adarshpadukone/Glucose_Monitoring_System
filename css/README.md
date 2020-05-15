@@ -1,5 +1,5 @@
-##Warning
+## Warning
 
 ```diff
-- Do not delete or modify files inside this folder
+ Do not delete or modify files inside this folder
 ```
