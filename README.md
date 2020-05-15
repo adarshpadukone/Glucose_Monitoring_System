@@ -3,7 +3,14 @@ In this Repository It includes all the files required for the Project Non Invasi
 * This Repository contains all the required files for the website.
 * Downlaod it and host it.
 * Do not rename or edit any files.
-* Make the neccessary changes in the php files for database connectivity
+* Make the neccessary changes in the php files for database connectivity.
+  * Edit the database name 
+  * Edit username
+  * Edit password
+  * Edit hostname
+  * Table name
+* Datebase file is Included In this repository under [SQL](https://github.com/adarshpadukone/Glucose_Monitoring_System/tree/master/sql)
+
 
 >Created by Adarsh Padukone
 
