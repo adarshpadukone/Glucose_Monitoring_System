@@ -1,5 +1,10 @@
 # Glucose_Monitoring_System
 In this Repository It includes all the files required for the Project Non Invasive Glucose Monitoring System.
+* This Repository contains all the required files for the website.
+* Downlaod it and host it.
+* Do not rename or edit any files.
+* Make the neccessary changes in the php files for database connectivity
+
 >Created by Adarsh Padukone
 
 
