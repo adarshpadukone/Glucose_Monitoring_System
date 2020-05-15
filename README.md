@@ -4,9 +4,10 @@ In this Repository It includes all the files required for the Project Non Invasi
 
 
 
-##Website for this project :heart:
+## Website for this project :heart:
 - [Glucometer](http://gluco.dx.am)
 
+## Website Home Page
 ![Screenshot](https://github.com/adarshpadukone/Glucose_Monitoring_System/blob/master/imges/homepage.JPG
 )
 
