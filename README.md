@@ -2,7 +2,7 @@
 In this Repository It includes all the files required for the Project Non Invasive Glucose Monitoring System.
 >Created by Adarsh Padukone
 
-/play bell
+
 
 ##Website for this project :heart:
 - [Glucometer](http://gluco.dx.am)
